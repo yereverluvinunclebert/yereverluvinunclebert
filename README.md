@@ -20,7 +20,7 @@ I have set out my steampunk design skills in this way to demonstrate what I can 
 
 ![vb6-logo-350](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/84a12939-eec1-4605-bec6-742f26ec5958)
 
-Why I still code in some supposedly obsolete environments? Well, I coded my first desktop widgets in javascript but the most popular engine, Konfabulator, was deprecated by Yahoo in their process of going bust. They bought Konfabulator when they were rich but disposed of it when they were not. I then continued to create widgets for the Xwidget engine and that soon died too. Coding for a dying environment is a bit depressing... so I moved back to VB6, a skillset still retained from the late 1990s/early 2000s. 
+Why do I still code in some supposedly obsolete environments? Well, I coded my first desktop widgets in javascript but the most popular engine, Konfabulator, was deprecated by Yahoo in their process of going bust. They bought Konfabulator when they were rich but disposed of it when they were not. I then continued to create widgets for the Xwidget engine and that soon died too. Coding for a dying environment is a bit depressing... so I moved back to VB6, a skillset still retained from the late 1990s/early 2000s. 
 
 Why I am still persisting with VB6 when some think it is a dead language?  Well, it was dead but now VB6 code has an amazing future with a brand new 64 bit, modern-language improvement upgrade on the way, in the form of Wayne Phillip's 100% VB6 compatible TWINBASIC coupled with support for transparent PNG widgets via Olaf Schmidt's Rich Client Cairo graphics framework. I can now create graphically advanced programs and the future for my code is secure.
 
@@ -28,7 +28,7 @@ Some of my projects:
 
 ![0UkRIKV](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/6a06d2f9-3cc7-472c-a6af-12112d202890)
 
-This is my RocketDock/ObjectDock replacement written in VB6, an unfinished but working project.
+This is my RocketDock/ObjectDock replacement written in VB6, an unfinished but working project. Needs a rethink to encapsulate certain elements and make the code more streamlined.
 
 ![steampunk_cpu_gpu_thermometer_widget_for_speedfan_by_yereverluvinuncleber_d4lri07-375w-2x](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/3dd3f291-258b-4872-bf6e-eb23b8272513)
 
@@ -50,7 +50,11 @@ This is my desktop hole widget using javascript for the Yahoo Widget Engine, a f
 
 ![panzer-OHMXwidget1440x900](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/74f2083d-c41f-4f94-8639-fc2a0cf6888f)
 
+This is my Panzer Clock widget, initially written using javascript for the Yahoo Widget and Xwidget Engines, each a finished project and now there is a VB6 version also complete.
+
 ![diesel-volume-help](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/2dc75108-6c99-4f00-a49f-c7ecc1094922)
+
+This is my Volume Control widget, initially written using javascript for the Yahoo Widget then converted to the Xwidget Engine to overcome a Windows change to the sound system, the Xwidget a finished project. There is now a VB6 version whose coding is underway now.
 
 ![d5zka9p-7b86c6d7-1b56-4f23-a4ba-9ce9c668356b](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/629527b8-f144-4d41-9d99-e27d8bbdce42)
 
