@@ -24,18 +24,23 @@ Some of my projects:
 
 ![0UkRIKV](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/6a06d2f9-3cc7-472c-a6af-12112d202890)
 
+This is my RocketDock/ObjectDock replacement written in VB6, an unfinished but working project.
 
 ![steampunk_cpu_gpu_thermometer_widget_for_speedfan_by_yereverluvinuncleber_d4lri07-375w-2x](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/3dd3f291-258b-4872-bf6e-eb23b8272513)
 
+This is my Steampunk CPU/GPU Thermometer widget using OHM written in javascript for the Yahoo Widget Engine, a basically finished  project that requires some fettling to fix a bug or two.
 
 ![orrery-desktop](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/094b58ce-f3d7-4df8-9557-8c648940675e)
 
+This is my Orrery widget using javascript for the Yahoo Widget Engine, a basically finished project that requires some fettling to fix a bug or two that has arisen as time has progressed (as usual for me).
 
 ![steampunk_clock_calendar_mkii__2_9__rc_by_yereverluvinuncleber-d4l5xny](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/e91568e6-4a11-4fa0-8eaf-7b2e227c98d6)
 
+This is my very first widget built using Photoshop and using javascript for the Yahoo Widget Engine, a basically finished project that requires some fettling to fix a bug or two that has arisen as time has progressed (as always).
 
 ![hole-desktop-image](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/5bb855eb-cbf3-4460-b30f-c8553a056742)
 
+This is my desktop hole widget using javascript for the Yahoo Widget Engine, a finished project.
 
 ![panzer-justclockVB6beltring](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/50ce333a-b28c-4313-bf02-e4de2c0cb265)
 
