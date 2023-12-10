@@ -28,65 +28,81 @@ I focus on Steampunk Design, why do I do it?
 
 ![0UkRIKV](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/6a06d2f9-3cc7-472c-a6af-12112d202890)
 
-![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) This is SteamyDock, my RocketDock/ObjectDock replacement written in VB6, an unfinished but working project. Needs a rethink to encapsulate certain elements and make the code more streamlined. However, it works and it runs on all my Windows systems.
+![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is SteamyDock, my RocketDock/ObjectDock replacement written in VB6, an unfinished but working project. Needs a rethink to encapsulate certain elements and make the code more streamlined. However, it works and it runs on all my Windows systems.
+
 
 ![steampunk_cpu_gpu_thermometer_widget_for_speedfan_by_yereverluvinuncleber_d4lri07-375w-2x](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/3dd3f291-258b-4872-bf6e-eb23b8272513)
 
-![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) This is my Steampunk CPU/GPU Thermometer widget using OHM written in javascript for the Yahoo Widget Engine, a basically finished  project that requires some fettling to fix a bug or two. I aim to rewrite this in VB6.  Uses OHM to extract the system motherboard temperatures.
+![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is my Steampunk CPU/GPU Thermometer widget using OHM written in javascript for the Yahoo Widget Engine, a basically finished  project that requires some fettling to fix a bug or two. I aim to rewrite this in VB6.  Uses OHM to extract the system motherboard temperatures.
+
 
 ![orrery-desktop](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/094b58ce-f3d7-4df8-9557-8c648940675e)
 
-![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) This is my Orrery widget using javascript for the Yahoo Widget Engine, a basically finished project that requires some fettling to fix a bug or two that has arisen as time has progressed (as usual for me). An eye candy widget.
+![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is my Orrery widget using javascript for the Yahoo Widget Engine, a basically finished project that requires some fettling to fix a bug or two that has arisen as time has progressed (as usual for me). An eye candy widget.
+
 
 ![steampunk_clock_calendar_mkii__2_9__rc_by_yereverluvinuncleber-d4l5xny](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/e91568e6-4a11-4fa0-8eaf-7b2e227c98d6)
 
-![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) This is my very first widget built using Photoshop and using javascript for the Yahoo Widget Engine, a basically finished project that requires some fettling to fix a bug or two that has arisen as time has progressed (as always).
+![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is my very first widget built using Photoshop and using javascript for the Yahoo Widget Engine, a basically finished project that requires some fettling to fix a bug or two that has arisen as time has progressed (as always).
+
 
 ![hole-desktop-image](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/5bb855eb-cbf3-4460-b30f-c8553a056742)
 
-![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) This is my desktop hole widget using javascript for the Yahoo Widget Engine, a finished project. A dektop tidy tool, drop any desktop item onto the hole and it will be re-organised automatically.
+![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is my desktop hole widget using javascript for the Yahoo Widget Engine, a finished project. A dektop tidy tool, drop any desktop item onto the hole and it will be re-organised automatically.
+
 
 ![panzer-justclockVB6beltring](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/50ce333a-b28c-4313-bf02-e4de2c0cb265)
 
-![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) This is my Panzer Clock widget, initially written using javascript for the Yahoo Widget and Xwidget Engines, each a finished project and now there is a VB6 version also complete and working.
+![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is my Panzer Clock widget, initially written using javascript for the Yahoo Widget and Xwidget Engines, each a finished project and now there is a VB6 version also complete and working.
+
 
 ![panzer-OHMXwidget1440x900](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/74f2083d-c41f-4f94-8639-fc2a0cf6888f)
 
-![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) This is my Panzer OHM temperature widget, written using javascript for the Yahoo Widget and Xwidget Engines, each a finished project. Uses OHM to extract the system motherboard temperatures. VB6 versions of the Panzer widgets are intended.
+![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is my Panzer OHM temperature widget, written using javascript for the Yahoo Widget and Xwidget Engines, each a finished project. Uses OHM to extract the system motherboard temperatures. VB6 versions of the Panzer widgets are intended.
+
+
 
 ![diesel-volume-help](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/2dc75108-6c99-4f00-a49f-c7ecc1094922)
 
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) This is my Volume Control widget, initially written using javascript for the Yahoo Widget then converted to the Xwidget Engine to overcome a Windows change to the sound system, the Xwidget a finished project. There exists a VB6 version whose coding is underway now.
 
+
 ![d5zka9p-7b86c6d7-1b56-4f23-a4ba-9ce9c668356b](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/629527b8-f144-4d41-9d99-e27d8bbdce42)
 
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) If you like nixie tubes then you will like this widget available in javascript for the Yahoo and Xwidget engines. Fully functional.
+
 
 ![steampunk_moon_phase_widget_and_icons_by_yereverluvinuncleber-d7jbrj0](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/2b180d45-f87c-4e5a-8edd-b4f948a2c0c7)
 
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) The moon phase widget coupled with the orrery, gives the orrery some function, displaying the phases of the moon using javascript for the Yahoo Widget engine. Fully functional.
 
+
 ![250285730-a525e0e1-50fc-42c9-8cb5-d578e3a9efaf](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/78eef7ba-78f3-4b29-93f0-f05b462b0e70)
 
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) I do occasionally create something more 'traditional'. This is one of the supporting utilities for SteamyDock, the Icon Settings tool. A finished, working project written in VB6.
+
 
 ![steampunk-media04](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/1913b715-8ddc-4413-a3f3-07a0549c56c9)
 
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) My steampunk media player. Fully functional. Written in javascript for the Yahoo and Xwidget engines. Uses the native Windows COM interface to the Windows media player. This provides the musical background to all my Windows installations. I could not live without it.
 
+
 ![xmas-advent-desktop-01](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/ef1c3f6f-df06-4646-b653-0e8177f71252)
 
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Some Christmas Baubles using javascript for the Yahoo Widget Engine, I have these on my desktop every Christmas. Advent is improved by having it run on my desktop.
 
+
 ![steampunk-icons02-PNG](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/8af073d4-0d3c-4776-b42b-8af87e750c41)
 
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) My desktop icon sets shown above. These exist in several forms, PNG, ICNS &c.
+
 
 ![planets](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/be23920a-957d-43d0-a3ef-3f8c73c22559)
 
 
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Lastly but not least, my planetary marble widgets. Written in VB6, moveable eye-candy. All functioning.
 
-My code is FOSS. You may use any of my images in any of your own creations but commercially ONLY with my permission. In all cases I require a credit using my name or pseudonym - and in addition a link to my Deviantart/Github accounts.
+
+![min-sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/f586d05b-6444-4edc-b56c-a7636331a64b) My code is FOSS. You may use any of my images in any of your own creations but commercially ONLY with my permission. In all cases I require a credit using my name or pseudonym - and in addition a link to my Deviantart/Github accounts.
 
 
