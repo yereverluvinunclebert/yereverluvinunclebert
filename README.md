@@ -43,6 +43,10 @@ Some of my projects:
 
 ![diesel-volume-help](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/2dc75108-6c99-4f00-a49f-c7ecc1094922)
 
+![d5zka9p-7b86c6d7-1b56-4f23-a4ba-9ce9c668356b](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/629527b8-f144-4d41-9d99-e27d8bbdce42)
+
+![steampunk_moon_phase_widget_and_icons_by_yereverluvinuncleber-d7jbrj0](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/2b180d45-f87c-4e5a-8edd-b4f948a2c0c7)
+
 You may use any of my images in any of your own creations but commercially only with my permission. In all cases I require a credit using my name or pseudonym - and in addition a link to my DA account or my own site.
 
 
