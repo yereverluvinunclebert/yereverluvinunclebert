@@ -28,15 +28,15 @@ Some of my projects:
 
 ![0UkRIKV](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/6a06d2f9-3cc7-472c-a6af-12112d202890)
 
-This is my RocketDock/ObjectDock replacement written in VB6, an unfinished but working project. Needs a rethink to encapsulate certain elements and make the code more streamlined.
+This is my RocketDock/ObjectDock replacement written in VB6, an unfinished but working project. Needs a rethink to encapsulate certain elements and make the code more streamlined. However, it works and it runs on all my Windows systems.
 
 ![steampunk_cpu_gpu_thermometer_widget_for_speedfan_by_yereverluvinuncleber_d4lri07-375w-2x](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/3dd3f291-258b-4872-bf6e-eb23b8272513)
 
-This is my Steampunk CPU/GPU Thermometer widget using OHM written in javascript for the Yahoo Widget Engine, a basically finished  project that requires some fettling to fix a bug or two.
+This is my Steampunk CPU/GPU Thermometer widget using OHM written in javascript for the Yahoo Widget Engine, a basically finished  project that requires some fettling to fix a bug or two. I aim to rewrite this in VB6.  Uses OHM to extract the system motherboard temperatures.
 
 ![orrery-desktop](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/094b58ce-f3d7-4df8-9557-8c648940675e)
 
-This is my Orrery widget using javascript for the Yahoo Widget Engine, a basically finished project that requires some fettling to fix a bug or two that has arisen as time has progressed (as usual for me).
+This is my Orrery widget using javascript for the Yahoo Widget Engine, a basically finished project that requires some fettling to fix a bug or two that has arisen as time has progressed (as usual for me). An eye candy widget.
 
 ![steampunk_clock_calendar_mkii__2_9__rc_by_yereverluvinuncleber-d4l5xny](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/e91568e6-4a11-4fa0-8eaf-7b2e227c98d6)
 
@@ -48,15 +48,19 @@ This is my desktop hole widget using javascript for the Yahoo Widget Engine, a f
 
 ![panzer-justclockVB6beltring](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/50ce333a-b28c-4313-bf02-e4de2c0cb265)
 
+This is my Panzer Clock widget, initially written using javascript for the Yahoo Widget and Xwidget Engines, each a finished project and now there is a VB6 version also complete.
+
 ![panzer-OHMXwidget1440x900](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/74f2083d-c41f-4f94-8639-fc2a0cf6888f)
 
-This is my Panzer Clock widget, initially written using javascript for the Yahoo Widget and Xwidget Engines, each a finished project and now there is a VB6 version also complete.
+This is my Panzer OHM temperature widget, written using javascript for the Yahoo Widget and Xwidget Engines, each a finished project. Uses OHM to extract the system motherboard temperatures.
 
 ![diesel-volume-help](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/2dc75108-6c99-4f00-a49f-c7ecc1094922)
 
 This is my Volume Control widget, initially written using javascript for the Yahoo Widget then converted to the Xwidget Engine to overcome a Windows change to the sound system, the Xwidget a finished project. There is now a VB6 version whose coding is underway now.
 
 ![d5zka9p-7b86c6d7-1b56-4f23-a4ba-9ce9c668356b](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/629527b8-f144-4d41-9d99-e27d8bbdce42)
+
+If you like nixie tubes then you will like this widget available for the Yahoo and Xwidget engines.
 
 ![steampunk_moon_phase_widget_and_icons_by_yereverluvinuncleber-d7jbrj0](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/2b180d45-f87c-4e5a-8edd-b4f948a2c0c7)
 
