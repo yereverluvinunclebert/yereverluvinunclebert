@@ -24,7 +24,7 @@ Why do I still code in some supposedly obsolete environments? Well, I coded my f
 
 Why I am still persisting with VB6 when some think it is a dead language?  Well, it was dead but now VB6 code has an amazing future with a brand new 64 bit, modern-language improvement upgrade on the way, in the form of Wayne Phillip's 100% VB6 compatible TWINBASIC coupled with support for transparent PNG widgets via Olaf Schmidt's Rich Client Cairo graphics framework. I can now create graphically advanced programs and the future for my code is secure.
 
-Some of my projects:
+These are just some of my projects, this is just a selection, there are at least 120 of these programs in various forms. 
 
 ![0UkRIKV](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/6a06d2f9-3cc7-472c-a6af-12112d202890)
 
