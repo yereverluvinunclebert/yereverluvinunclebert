@@ -25,6 +25,23 @@ Some of my projects:
 ![0UkRIKV](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/6a06d2f9-3cc7-472c-a6af-12112d202890)
 
 
+![steampunk_cpu_gpu_thermometer_widget_for_speedfan_by_yereverluvinuncleber_d4lri07-375w-2x](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/3dd3f291-258b-4872-bf6e-eb23b8272513)
+
+
+![orrery-desktop](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/094b58ce-f3d7-4df8-9557-8c648940675e)
+
+
+![steampunk_clock_calendar_mkii__2_9__rc_by_yereverluvinuncleber-d4l5xny](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/e91568e6-4a11-4fa0-8eaf-7b2e227c98d6)
+
+
+![hole-desktop-image](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/5bb855eb-cbf3-4460-b30f-c8553a056742)
+
+
+![panzer-justclockVB6beltring](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/50ce333a-b28c-4313-bf02-e4de2c0cb265)
+
+![panzer-OHMXwidget1440x900](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/74f2083d-c41f-4f94-8639-fc2a0cf6888f)
+
+![diesel-volume-help](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/2dc75108-6c99-4f00-a49f-c7ecc1094922)
 
 You may use any of my images in any of your own creations but commercially only with my permission. In all cases I require a credit using my name or pseudonym - and in addition a link to my DA account or my own site.
 
