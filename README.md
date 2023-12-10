@@ -20,7 +20,9 @@ I have set out my steampunk design skills in this way to demonstrate what I can 
 
 ![vb6-logo-350](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/84a12939-eec1-4605-bec6-742f26ec5958)
 
-Why I am still persisting with VB6? Well, VB6 code has an amazing future with a brand new 64 bit, modern-language improvement upgrade on the way in the form of Wayne Phillip's 100% VB6 compatible TWINBASIC coupled with support for transparent PNG widgets via Olaf Schmidt's Rich Client Cairo graphics framework. I can create graphically advanced programs and the future for my code is secure.
+Why I still code in some supposedly obsolete environments? Well, I coded my first desktop widgets in javascript but the most popular engine, Konfabulator, was deprecated by Yahoo in their process of going bust. They bought Konfabulator when they were rich but disposed of it when they were not. I then continued to create widgets for the Xwidget engine and that soon died too. Coding for a dying environment is a bit depressing... so I moved back to VB6, a skillset still retained from the late 1990s/early 2000s. 
+
+Why I am still persisting with VB6 when some think it is a dead language?  Well, it was dead but now VB6 code has an amazing future with a brand new 64 bit, modern-language improvement upgrade on the way, in the form of Wayne Phillip's 100% VB6 compatible TWINBASIC coupled with support for transparent PNG widgets via Olaf Schmidt's Rich Client Cairo graphics framework. I can now create graphically advanced programs and the future for my code is secure.
 
 Some of my projects:
 
