@@ -47,6 +47,15 @@ Some of my projects:
 
 ![steampunk_moon_phase_widget_and_icons_by_yereverluvinuncleber-d7jbrj0](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/2b180d45-f87c-4e5a-8edd-b4f948a2c0c7)
 
+![250285730-a525e0e1-50fc-42c9-8cb5-d578e3a9efaf](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/78eef7ba-78f3-4b29-93f0-f05b462b0e70)
+![steampunk-media04](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/1913b715-8ddc-4413-a3f3-07a0549c56c9)
+
+![xmas-advent-desktop-01](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/ef1c3f6f-df06-4646-b653-0e8177f71252)
+
+![steampunk-icons02-PNG](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/8af073d4-0d3c-4776-b42b-8af87e750c41)
+
+
+
 You may use any of my images in any of your own creations but commercially only with my permission. In all cases I require a credit using my name or pseudonym - and in addition a link to my DA account or my own site.
 
 
