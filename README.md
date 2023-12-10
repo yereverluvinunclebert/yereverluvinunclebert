@@ -16,9 +16,9 @@ My aim is to help you break out of this corporate mindset and to think of deskto
 
 I have set out my steampunk design skills in this way to demonstrate what I can do graphically, underneath the graphics is a little skill in javascript and some slowly increasing capabilities in VB6. So, whether or not you are a steampunker or a coder yourself, with these widgets, programs and icons you can thoroughly retro-ise your desktop. 
 
-![vb6-logo](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/f4bdf179-8306-47f7-91a2-523314418d2f)
+![vb6-logo-350](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/84a12939-eec1-4605-bec6-742f26ec5958)
 
-Why VB6? Well, with a 64 bit, modern-language improvement upgrade on the way with 100% compatible TwinBasic coupled with support for transparent PNGs via RC/Cairo, VB6 code has an amazing future.
+Why I am still persisting with VB6? Well, VB6 code has an amazing future with a brand new 64 bit, modern-language improvement upgrade on the way in the form of Wayne Phillip's 100% VB6 compatible TWINBASIC coupled with support for transparent PNG widgets via Olaf Schmidt's Rich Client Cairo graphics framework. I can create graphically advanced programs and the future for my code is secure.
 
 Some of my projects:
 
