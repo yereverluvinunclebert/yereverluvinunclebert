@@ -80,8 +80,12 @@ Some Christmas Baubles using javascript for the Yahoo Widget Engine, I have thes
 
 ![steampunk-icons02-PNG](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/8af073d4-0d3c-4776-b42b-8af87e750c41)
 
-My desktop icon sets shown above.
+My desktop icon sets shown above. These exist in several forms, PNG, ICNS &c.
 
-You may use any of my images in any of your own creations but commercially only with my permission. In all cases I require a credit using my name or pseudonym - and in addition a link to my Deviantart/Github accounts.
+![planets](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/be23920a-957d-43d0-a3ef-3f8c73c22559)
+
+Lastly but not least, my planetary marble widgets. Written in VB6, moveable eye-candy. All functioning.
+
+My code is FOSS. You may use any of my images in any of your own creations but commercially ONLY with my permission. In all cases I require a credit using my name or pseudonym - and in addition a link to my Deviantart/Github accounts.
 
 
