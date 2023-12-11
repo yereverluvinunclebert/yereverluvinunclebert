@@ -58,38 +58,38 @@ I focus on Steampunk Design, why do I do it?
 
 ![panzer-OHMXwidget1440x900](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/74f2083d-c41f-4f94-8639-fc2a0cf6888f)
 
-![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is my Panzer OHM temperature widget, written using javascript for the Yahoo Widget and Xwidget Engines, each a finished project. Uses OHM to extract the system motherboard temperatures. VB6 versions of the Panzer widgets are intended.
+![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is my [Panzer OHM temperature](https://github.com/yereverluvinunclebert/Panzer-OHM-gauge-Ywidget) widget, written using javascript for the [Yahoo Widget](https://github.com/yereverluvinunclebert/Panzer-OHM-gauge-Ywidget) and [Xwidget](https://github.com/yereverluvinunclebert/Panzer-Tank-Temperature-Gauge-OHM-XWidget) Engines, each a finished project. Uses OHM to extract the system motherboard temperatures. VB6 versions of the Panzer widgets are intended.
 
 
 
 ![diesel-volume-help](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/2dc75108-6c99-4f00-a49f-c7ecc1094922)
 
-![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) This is my Volume Control widget, initially written using javascript for the Yahoo Widget then converted to the Xwidget Engine to overcome a Windows change to the sound system, the Xwidget a finished project. There exists a VB6 version whose coding is underway now.
+![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) This is my [Volume Control](https://github.com/yereverluvinunclebert/Dieselpunk-Volume-Xwidget) widget, initially written using javascript for the [Yahoo Widget](https://github.com/yereverluvinunclebert/Dieselpunk-Volume-Xwidget) engine then converted to the Xwidget Engine to overcome a Windows change to the sound system, the Xwidget a finished project. There exists a VB6 version whose coding is underway now.
 
 
 ![d5zka9p-7b86c6d7-1b56-4f23-a4ba-9ce9c668356b](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/629527b8-f144-4d41-9d99-e27d8bbdce42)
 
-![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) If you like nixie tubes then you will like this widget available in javascript for the Yahoo and Xwidget engines. Fully functional.
+![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) If you like [nixie tubes](https://github.com/yereverluvinunclebert/Cyberpunk-Nixie-Tube-Clock) then you will like this widget available in javascript for the [Yahoo](https://github.com/yereverluvinunclebert/Cyberpunk-Nixie-Tube-Clock) and Xwidget engines. Fully functional.
 
 
 ![steampunk_moon_phase_widget_and_icons_by_yereverluvinuncleber-d7jbrj0](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/2b180d45-f87c-4e5a-8edd-b4f948a2c0c7)
 
-![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) The moon phase widget coupled with the orrery, gives the orrery some function, displaying the phases of the moon using javascript for the Yahoo Widget engine. Fully functional.
+![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) The [moon phase widget ](https://github.com/yereverluvinunclebert/Steampunk-Moon_Phase_III)coupled with the orrery, gives the orrery some function, displaying the phases of the moon using javascript for the Yahoo Widget engine. Fully functional.
 
 
 ![250285730-a525e0e1-50fc-42c9-8cb5-d578e3a9efaf](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/78eef7ba-78f3-4b29-93f0-f05b462b0e70)
 
-![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) I do occasionally create something more 'traditional'. This is one of the supporting utilities for SteamyDock, the Icon Settings tool. A finished, working project written in VB6.
+![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) I do occasionally create something more 'traditional'. This is one of the supporting utilities for SteamyDock, [the Icon Settings tool](https://github.com/yereverluvinunclebert/Icon-Settings-for-Steamydock). A finished, working project written in VB6.
 
 
 ![steampunk-media04](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/1913b715-8ddc-4413-a3f3-07a0549c56c9)
 
-![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) My steampunk media player. Fully functional. Written in javascript for the Yahoo and Xwidget engines. Uses the native Windows COM interface to the Windows media player. This provides the musical background to all my Windows installations. I could not live without it.
+![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) My [steampunk media player](https://github.com/yereverluvinunclebert/Steampunk-MediaPlayer-Ywidget). Fully functional. Written in javascript for the [Yahoo](https://github.com/yereverluvinunclebert/Steampunk-MediaPlayer-Ywidget) and Xwidget engines. Uses the native Windows COM interface to the Windows media player. This provides the musical background to all my Windows installations. I could not live without it.
 
 
 ![xmas-advent-desktop-01](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/ef1c3f6f-df06-4646-b653-0e8177f71252)
 
-![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Some Christmas Baubles using javascript for the Yahoo Widget Engine, I have these on my desktop every Christmas. Advent is improved by having it run on my desktop.
+![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Some [Christmas Baubles](https://github.com/yereverluvinunclebert/christmas-baubles) using javascript for the Yahoo Widget Engine, I have these on my desktop every Christmas. Advent is improved by having it run on my desktop.
 
 
 ![steampunk-icons02-PNG](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/8af073d4-0d3c-4776-b42b-8af87e750c41)
