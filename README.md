@@ -94,7 +94,7 @@ I focus on Steampunk Design, why do I do it?
 
 ![steampunk-icons02-PNG](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/8af073d4-0d3c-4776-b42b-8af87e750c41)
 
-![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) My desktop icon sets shown above. These exist in several forms, PNG, ICNS &c.
+![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) My desktop icon sets shown above. These exist in several forms, PNG, ICNS &c. Not hosting them here on github but instead on [Deviantart](https://www.deviantart.com/yereverluvinuncleber/gallery/59981272/orbs-and-icons).
 
 
 ![trinkets001](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/ff236a13-350b-4c46-9e01-a97ea20f2660)
