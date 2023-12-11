@@ -1,6 +1,6 @@
 ### Welcome chaps!
 
-![min-sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/f586d05b-6444-4edc-b56c-a7636331a64b) This is my repository for some interesting and hopefully useful utilities that have an unusual or different graphical quality from the usual run-of-the-mill stuff. Here you will find functioning code for three main programming environments: firstly, javascript widgets for Konfabulator, also latterly known as the Yahoo Widget Engine; then equivalent jScript code for the similar Xwidget Engine; lastly Visual Basic code desktop widgets and utilities for VB6, creating WoW64 programs for the desktop. (Some of these programs are also available for NW.JS) not yet posted here.
+![min-sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/f586d05b-6444-4edc-b56c-a7636331a64b) This is my repository for some interesting and hopefully useful utilities that have an unusual or different graphical quality from the usual run-of-the-mill stuff. Here you will find functioning code for three main programming environments: firstly, javascript widgets for Konfabulator, also latterly known as the Yahoo Widget Engine; then equivalent jScript code for the similar Xwidget Engine; lastly Visual Basic code desktop widgets and utilities for VB6, creating WoW64 programs for the desktop. Some of these programs are also available for NW.JS, the latter not yet posted here.
 
 ![vb6-logos](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/5670f82c-d645-4089-a190-307cd16290ba)
 
@@ -24,7 +24,7 @@ I focus on Steampunk Design, why do I do it?
 
 ![min-sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/f586d05b-6444-4edc-b56c-a7636331a64b)  Why I am still persisting with VB6 when some think it is a dead language?  Well, it was dead but now VB6 code has an amazing future with a brand new 64 bit, modern-language improvement upgrade on the way, in the form of Wayne Phillip's 100% VB6 compatible TWINBASIC coupled with support for transparent PNG widgets via Olaf Schmidt's Rich Client Cairo graphics framework. I can now create graphically advanced programs and the future for my code is secure.
 
-![min-sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/f586d05b-6444-4edc-b56c-a7636331a64b)  These are just some of my projects, this is just a selection, there are at least 120 of these programs in various forms. 
+![min-sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/f586d05b-6444-4edc-b56c-a7636331a64b)  These are just some of my projects, this is just a selection, there are at least 120 of these programs in various forms, most posted here. 
 
 ![0UkRIKV](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/6a06d2f9-3cc7-472c-a6af-12112d202890)
 
