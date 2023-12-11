@@ -97,10 +97,12 @@ I focus on Steampunk Design, why do I do it?
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) My desktop icon sets shown above. These exist in several forms, PNG, ICNS &c.
 
 
+Above I have some 'simple' desktop widgets or trinkets as I like to call them. They are similar to large icons that you can dynamically resize and assing a function to: Halfpenny, Sovereign, Penny Red, Poster and the simple magnifier. I use these as icons to various useful programs.
+
 ![planets](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/be23920a-957d-43d0-a3ef-3f8c73c22559)
 
 
-![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Lastly but not least, my planetary marble widgets. Written in VB6, moveable eye-candy. All functioning.
+![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Lastly but not least, my planetary marble widgets, Earth, Saturn, Mars, Uranus, Pluto, Neptune, Jupiter, Venus, Mercury, Ganymede and Europa. Written in VB6, moveable eye-candy. All functioning.
 
 
 ![min-sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/f586d05b-6444-4edc-b56c-a7636331a64b) My code is FOSS. It contains code from other developers that is also FOSS. I give them credit on the repository description and in the code itself. My images are also free to use. You may use any of my images in any of your own creations but commercially ONLY with my permission. In all and any cases I require a credit using my name or my github pseudonym above - and in addition a link to my Deviantart or Github accounts.
