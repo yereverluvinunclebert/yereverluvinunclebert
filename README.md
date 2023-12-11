@@ -71,13 +71,12 @@ I focus on Steampunk Design, why do I do it?
 
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) If you like [nixie tubes](https://github.com/yereverluvinunclebert/Cyberpunk-Nixie-Tube-Clock) then you will like this widget available in javascript for the [Yahoo](https://github.com/yereverluvinunclebert/Cyberpunk-Nixie-Tube-Clock) and Xwidget engines. Fully functional.
 
-[
-![steampunk_moon_phase_widget_and_icons_by_yereverluvinuncleber-d7jbrj0](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/2b180d45-f87c-4e5a-8edd-b4f948a2c0c7)](https://github.com/yereverluvinunclebert/Steampunk-Moon_Phase_III)
+[![steampunk_moon_phase_widget_and_icons_by_yereverluvinuncleber-d7jbrj0](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/2b180d45-f87c-4e5a-8edd-b4f948a2c0c7)](https://github.com/yereverluvinunclebert/Steampunk-Moon_Phase_III)
 
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) The [moon phase widget ](https://github.com/yereverluvinunclebert/Steampunk-Moon_Phase_III)coupled with the orrery, gives the orrery some function, displaying the phases of the moon using javascript for the Yahoo Widget engine. Fully functional.
 
 
-![250285730-a525e0e1-50fc-42c9-8cb5-d578e3a9efaf](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/78eef7ba-78f3-4b29-93f0-f05b462b0e70)
+[![250285730-a525e0e1-50fc-42c9-8cb5-d578e3a9efaf](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/78eef7ba-78f3-4b29-93f0-f05b462b0e70)](https://github.com/yereverluvinunclebert/Icon-Settings-for-Steamydock)
 
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) I do occasionally create something more 'traditional'. This is one of the supporting utilities for SteamyDock, [the Icon Settings tool](https://github.com/yereverluvinunclebert/Icon-Settings-for-Steamydock). A finished, working project written in VB6.
 
