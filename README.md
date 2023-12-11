@@ -105,7 +105,7 @@ I focus on Steampunk Design, why do I do it?
 ![planets](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/be23920a-957d-43d0-a3ef-3f8c73c22559)
 
 
-![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Lastly but not least, my planetary marble widgets, Earth, Saturn, Mars, Uranus, Pluto, Neptune, Jupiter, Venus, Mercury, Ganymede and Europa. Written in VB6, moveable eye-candy. All functioning.
+![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Lastly but not least, my planetary marble widgets, Earth, Sun, Saturn, Mars, Uranus, Pluto, Neptune, Jupiter, Venus, Mercury, Ganymede and Europa. Written in VB6, and for the Yahoo Widget engine, moveable eye-candy. Links above to the VB6 versions. All functioning. You can find the [Yahoo Widget versions](https://github.com/yereverluvinunclebert?tab=repositories&q=yahoo+marble&type=&language=javascript&sort=) in my repository.
 
 
 ![min-sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/f586d05b-6444-4edc-b56c-a7636331a64b) My code is FOSS. It contains code from other developers that is also FOSS. I give them credit on the repository description and in the code itself. My images are also free to use. You may use any of my images in any of your own creations but commercially ONLY with my permission. In all and any cases I require a credit using my name or my github pseudonym above - and in addition a link to my Deviantart or Github accounts.
