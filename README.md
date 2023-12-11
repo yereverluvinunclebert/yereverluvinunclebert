@@ -38,12 +38,12 @@ I focus on Steampunk Design, why do I do it?
 
 ![orrery-desktop](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/094b58ce-f3d7-4df8-9557-8c648940675e)
 
-![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is my Orrery widget using javascript for the Yahoo Widget Engine, a basically finished project that requires some fettling to fix a bug or two that has arisen as time has progressed (as usual for me). An eye candy widget.
+![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is my [Orrery widget](https://github.com/yereverluvinunclebert/Steampunk-Calendar-Orrery-Yahoo-Widget) using javascript for the Yahoo Widget Engine, a basically finished project that requires some fettling to fix a bug or two that has arisen as time has progressed (as usual for me). An eye candy widget.
 
 
 ![steampunk_clock_calendar_mkii__2_9__rc_by_yereverluvinuncleber-d4l5xny](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/e91568e6-4a11-4fa0-8eaf-7b2e227c98d6)
 
-![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is my very first widget built using Photoshop and using javascript for the Yahoo Widget Engine, a basically finished project that requires some fettling to fix a bug or two that has arisen as time has progressed (as always).
+![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is the [Steampunk Clock Calendar](https://github.com/yereverluvinunclebert/Steampunk-clock-calendar-version-2.9), my very first widget built using Photoshop and using javascript for the Yahoo Widget Engine, a basically finished project that requires some fettling to fix a bug or two that has arisen as time has progressed (as always).
 
 
 ![hole-desktop-image](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/5bb855eb-cbf3-4460-b30f-c8553a056742)
