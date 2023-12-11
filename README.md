@@ -56,7 +56,7 @@ I focus on Steampunk Design, why do I do it?
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is my Panzer Clock widget, initially written using javascript for the [Yahoo Widget](https://github.com/yereverluvinunclebert/Panzer-Just-Clock.widget) and Xwidget Engines, each a finished project and now [there is now a VB6 version](https://github.com/yereverluvinunclebert/Panzer-JustClock-VB6) also complete and working.
 
 
-![panzer-OHMXwidget1440x900](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/74f2083d-c41f-4f94-8639-fc2a0cf6888f)
+[![panzer-OHMXwidget1440x900](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/74f2083d-c41f-4f94-8639-fc2a0cf6888f)](https://github.com/yereverluvinunclebert/Panzer-OHM-gauge-Ywidget)
 
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is my [Panzer OHM temperature](https://github.com/yereverluvinunclebert/Panzer-OHM-gauge-Ywidget) widget, written using javascript for the [Yahoo Widget](https://github.com/yereverluvinunclebert/Panzer-OHM-gauge-Ywidget) and [Xwidget](https://github.com/yereverluvinunclebert/Panzer-Tank-Temperature-Gauge-OHM-XWidget) Engines, each a finished project. Uses OHM to extract the system motherboard temperatures. VB6 versions of the Panzer widgets are intended.
 
