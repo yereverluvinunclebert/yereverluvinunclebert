@@ -24,7 +24,7 @@ I focus on Steampunk Design, why do I do it?
 
 ![min-sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/f586d05b-6444-4edc-b56c-a7636331a64b)  Why I am still persisting with VB6 when some think it is a dead language?  Well, it was dead but now VB6 code has an amazing future with a brand new 64 bit, modern-language improvement upgrade on the way, in the form of Wayne Phillip's 100% VB6 compatible [TWINBASIC](https://twinbasic.com/) coupled with support for transparent PNG widgets via [Olaf Schmidt's Rich Client Cairo graphics framework](https://www.vbrichclient.com/#/en/About/). I can now create graphically advanced programs and the future for my code is secure.
 
-![min-sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/f586d05b-6444-4edc-b56c-a7636331a64b)  These are just some of my projects, this is just a selection, there are at least 120 of these programs in various forms, most posted here. 
+![min-sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/f586d05b-6444-4edc-b56c-a7636331a64b)  These are just some of my projects, this is just a selection, there are at least 120 of these programs in various forms, most posted [here](https://github.com/yereverluvinunclebert?tab=repositories). 
 
 [![0UkRIKV](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/6a06d2f9-3cc7-472c-a6af-12112d202890)](https://github.com/yereverluvinunclebert/SteamyDock)
 
