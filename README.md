@@ -97,7 +97,9 @@ I focus on Steampunk Design, why do I do it?
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) My desktop icon sets shown above. These exist in several forms, PNG, ICNS &c.
 
 
-Above I have some 'simple' desktop widgets or trinkets as I like to call them. They are similar to large icons that you can dynamically resize and assing a function to: Halfpenny, Sovereign, Penny Red, Poster and the simple magnifier. I use these as icons to various useful programs.
+![trinkets001](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/ff236a13-350b-4c46-9e01-a97ea20f2660)
+
+Above I have some 'simple' desktop widgets or trinkets as I like to call them. They are similar to large icons that you can dynamically resize and assign a function to: Halfpenny, Sovereign, Penny Red, Poster and the simple magnifier. I use these as icons to various useful programs. Genuinely useful.
 
 ![planets](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/be23920a-957d-43d0-a3ef-3f8c73c22559)
 
