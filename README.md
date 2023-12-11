@@ -103,6 +103,6 @@ I focus on Steampunk Design, why do I do it?
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Lastly but not least, my planetary marble widgets. Written in VB6, moveable eye-candy. All functioning.
 
 
-![min-sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/f586d05b-6444-4edc-b56c-a7636331a64b) My code is FOSS. You may use any of my images in any of your own creations but commercially ONLY with my permission. In all cases I require a credit using my name or pseudonym - and in addition a link to my Deviantart/Github accounts.
+![min-sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/f586d05b-6444-4edc-b56c-a7636331a64b) My code is FOSS. It contains code from other developers that is also FOSS. I give them credit on the repository decription and in the code itself. My images are also free to use. You may use any of my images in any of your own creations but commercially ONLY with my permission. In all and any cases I require a credit using my name or my github pseudonym above - and in addition a link to my Deviantart or Github accounts.
 
 
