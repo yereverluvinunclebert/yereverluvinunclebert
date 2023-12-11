@@ -53,7 +53,7 @@ I focus on Steampunk Design, why do I do it?
 
 ![panzer-justclockVB6beltring](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/50ce333a-b28c-4313-bf02-e4de2c0cb265)
 
-![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is my Panzer Clock widget, initially written using javascript for the Yahoo Widget and Xwidget Engines, each a finished project and now there is a VB6 version also complete and working.
+![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is my Panzer Clock widget, initially written using javascript for the [Yahoo Widget](https://github.com/yereverluvinunclebert/Panzer-Just-Clock.widget) and Xwidget Engines, each a finished project and now [there is now a VB6 version](https://github.com/yereverluvinunclebert/Panzer-JustClock-VB6) also complete and working.
 
 
 ![panzer-OHMXwidget1440x900](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/74f2083d-c41f-4f94-8639-fc2a0cf6888f)
