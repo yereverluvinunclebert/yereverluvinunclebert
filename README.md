@@ -81,17 +81,17 @@ I focus on Steampunk Design, why do I do it?
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) I do occasionally create something more 'traditional'. This is one of the supporting utilities for SteamyDock, [the Icon Settings tool](https://github.com/yereverluvinunclebert/Icon-Settings-for-Steamydock). A finished, working project written in VB6.
 
 
-![steampunk-media04](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/1913b715-8ddc-4413-a3f3-07a0549c56c9)
+[![steampunk-media04](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/1913b715-8ddc-4413-a3f3-07a0549c56c9)](https://github.com/yereverluvinunclebert/Steampunk-MediaPlayer-Ywidget)
 
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) My [steampunk media player](https://github.com/yereverluvinunclebert/Steampunk-MediaPlayer-Ywidget). Fully functional. Written in javascript for the [Yahoo](https://github.com/yereverluvinunclebert/Steampunk-MediaPlayer-Ywidget) and Xwidget engines. Uses the native Windows COM interface to the Windows media player. This provides the musical background to all my Windows installations. I could not live without it.
 
 
-![xmas-advent-desktop-01](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/ef1c3f6f-df06-4646-b653-0e8177f71252)
+[![xmas-advent-desktop-01](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/ef1c3f6f-df06-4646-b653-0e8177f71252)](https://github.com/yereverluvinunclebert/christmas-baubles)
 
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Some [Christmas Baubles](https://github.com/yereverluvinunclebert/christmas-baubles) using javascript for the Yahoo Widget Engine, I have these on my desktop every Christmas. Advent is improved by having it run on my desktop.
 
 
-![steampunk-icons02-PNG](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/8af073d4-0d3c-4776-b42b-8af87e750c41)
+[![steampunk-icons02-PNG](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/8af073d4-0d3c-4776-b42b-8af87e750c41)](https://www.deviantart.com/yereverluvinuncleber/gallery/59981272/orbs-and-icons)
 
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) My desktop icon sets shown above. These exist in several forms, PNG, ICNS &c. Not hosting them here on github but instead on [Deviantart](https://www.deviantart.com/yereverluvinuncleber/gallery/59981272/orbs-and-icons).
 
