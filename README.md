@@ -51,7 +51,7 @@ I focus on Steampunk Design, why do I do it?
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is my [desktop hole widget](https://github.com/yereverluvinunclebert/Desktop-Hole) using javascript for the Yahoo Widget Engine, a finished project. A desktop tidy tool, drop any desktop item onto the hole and it will be re-organised automatically.
 
 
-![panzer-justclockVB6beltring](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/50ce333a-b28c-4313-bf02-e4de2c0cb265)
+[![panzer-justclockVB6beltring](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/50ce333a-b28c-4313-bf02-e4de2c0cb265)](https://github.com/yereverluvinunclebert/Panzer-JustClock-VB6)
 
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is my Panzer Clock widget, initially written using javascript for the [Yahoo Widget](https://github.com/yereverluvinunclebert/Panzer-Just-Clock.widget) and Xwidget Engines, each a finished project and now [there is now a VB6 version](https://github.com/yereverluvinunclebert/Panzer-JustClock-VB6) also complete and working.
 
