@@ -48,7 +48,7 @@ I focus on Steampunk Design, why do I do it?
 
 ![hole-desktop-image](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/5bb855eb-cbf3-4460-b30f-c8553a056742)
 
-![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is my [desktop hole widget](https://github.com/yereverluvinunclebert/Desktop-Hole) using javascript for the Yahoo Widget Engine, a finished project. A dektop tidy tool, drop any desktop item onto the hole and it will be re-organised automatically.
+![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is my [desktop hole widget](https://github.com/yereverluvinunclebert/Desktop-Hole) using javascript for the Yahoo Widget Engine, a finished project. A desktop tidy tool, drop any desktop item onto the hole and it will be re-organised automatically.
 
 
 ![panzer-justclockVB6beltring](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/50ce333a-b28c-4313-bf02-e4de2c0cb265)
@@ -64,7 +64,7 @@ I focus on Steampunk Design, why do I do it?
 
 ![diesel-volume-help](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/2dc75108-6c99-4f00-a49f-c7ecc1094922)
 
-![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) This is my [Volume Control](https://github.com/yereverluvinunclebert/Dieselpunk-Volume-Xwidget) widget, initially written using javascript for the [Yahoo Widget](https://github.com/yereverluvinunclebert/Dieselpunk-Volume-Xwidget) engine then converted to the Xwidget Engine to overcome a Windows change to the sound system, the Xwidget a finished project. There exists a VB6 version whose coding is underway now.
+![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) This is my [Volume Control](https://github.com/yereverluvinunclebert/Dieselpunk-Volume-Xwidget) widget, initially written in a steampunk form using javascript for the [Yahoo Widget](https://github.com/yereverluvinunclebert/steampunk-volume-XP) engine then converted to the [Xwidget Engine](https://github.com/yereverluvinunclebert/Dieselpunk-Volume-Xwidget) to overcome a Windows change to the sound system, the [Xwidget](https://github.com/yereverluvinunclebert/Dieselpunk-Volume-Xwidget) a finished project. There also exists a VB6 version whose coding is underway now.
 
 
 ![d5zka9p-7b86c6d7-1b56-4f23-a4ba-9ce9c668356b](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/629527b8-f144-4d41-9d99-e27d8bbdce42)
