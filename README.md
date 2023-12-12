@@ -32,16 +32,17 @@ I focus on Steampunk Design, why do I do it?
 
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is [SteamyDock](https://github.com/yereverluvinunclebert/SteamyDock), my RocketDock/ObjectDock replacement written in VB6, an unfinished but working project. Needs a rethink to encapsulate certain elements and make the code more streamlined. However, it works and it runs on all my Windows systems.
 
+## Steampunk CPU GPU Speedfan Thermometer and OHM
 
 [![steampunk_cpu_gpu_thermometer_widget_for_speedfan_by_yereverluvinuncleber_d4lri07-375w-2x](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/3dd3f291-258b-4872-bf6e-eb23b8272513)](https://github.com/yereverluvinunclebert/Steampunk-CPU_GPU-Speedfan-Thermometer)
 
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is my [Steampunk CPU/GPU Thermometer widget](https://github.com/yereverluvinunclebert/Steampunk-CPU_GPU-Speedfan-Thermometer) using OHM written in javascript for the Yahoo Widget Engine, a basically finished  project that requires some fettling to fix a bug or two. I aim to rewrite this in VB6.  Uses OHM to extract the system motherboard temperatures.
 
+## Steampunk Calendar Orrery Yahoo Widget
 
 [![orrery-desktop](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/094b58ce-f3d7-4df8-9557-8c648940675e)](https://github.com/yereverluvinunclebert/Steampunk-Calendar-Orrery-Yahoo-Widget)
 
-![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is my [Orrery widget](https://github.com/yereverluvinunclebert/Steampunk-Calendar-Orrery-Yahoo-Widget) using javascript for the Yahoo Widget Engine, a basically finished project that requires some fettling to fix a bug or two that has arisen as time has progressed (as usual for me). An eye candy widget.
-
+![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is my [Orrery widget](https://github.com/yereverluvinunclebert/Steampunk-Calendar-Orrery-Yahoo-Widget) using javascript for the Yahoo Widget Engine, a basically finished project that requires some fettling to fix a bug or two that has arisen as time has progressed (as usual for me). An eye candy widget. There also exists a Plasma version of this timekeeper and a cutdown rainmeter version.
 
 [![steampunk_clock_calendar_mkii__2_9__rc_by_yereverluvinuncleber-d4l5xny](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/e91568e6-4a11-4fa0-8eaf-7b2e227c98d6)](https://github.com/yereverluvinunclebert/Steampunk-clock-calendar-version-2.9)
 
