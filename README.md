@@ -109,6 +109,6 @@ I focus on Steampunk Design, why do I do it?
 
 ![min-sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/f586d05b-6444-4edc-b56c-a7636331a64b) My code is FOSS. It contains code from other developers that is also FOSS. I give them credit on the repository description and in the code itself. My images are also free to use. You may use any of my images in any of your own creations but commercially ONLY with my permission. In all and any cases I require a credit using my name or my github pseudonym above - and in addition a link to my Deviantart or Github accounts.
 
-![min-sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/f586d05b-6444-4edc-b56c-a7636331a64b) The main credit goes to my mentor [Harry Whitfield Professor Emeritus of Computing at Sheffield University](https://g6auc.me.uk/) who restarted me down a path of programming using javascript and widgeting.
+![min-sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/f586d05b-6444-4edc-b56c-a7636331a64b) The main credit goes to my mentor [Harry Whitfield Professor Emeritus of Computing at Sheffield University](https://g6auc.me.uk/) who restarted me down a path of programming using javascript and widgeting. Also, to Olaf Schmidt, without whose RichClient Cairo framework for Visual Basic, the VB6 widgets/trinkets would not be possible.
 
 
