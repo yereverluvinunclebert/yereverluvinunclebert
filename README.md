@@ -1,4 +1,4 @@
-# Welcome chaps!
+### Welcome chaps!
 
 ![min-sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/f586d05b-6444-4edc-b56c-a7636331a64b) This is my repository for some interesting and hopefully useful utilities that have an unusual or different graphical quality from the usual run-of-the-mill stuff. Here you will find functioning code for three main programming environments: firstly, javascript widgets for Konfabulator, also latterly known as the [Yahoo Widget Engine](https://g6auc.me.uk/ywidgets_sdk_setup.exe); then equivalent jScript code for the similar Xwidget Engine; lastly Visual Basic code desktop widgets and utilities for VB6, creating WoW64 programs for the desktop. Some of these programs are also available as web widgets/NW.js, the latter not yet posted here.
 
@@ -26,33 +26,37 @@ I focus on Steampunk Design, why do I do it?
 
 ![min-sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/f586d05b-6444-4edc-b56c-a7636331a64b)  These are just some of my projects, this is just a selection, there are at least 120 of these programs in various forms, most posted [here](https://github.com/yereverluvinunclebert?tab=repositories). 
 
-### SteamyDock
+#### SteamyDock
 
 [![0UkRIKV](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/6a06d2f9-3cc7-472c-a6af-12112d202890)](https://github.com/yereverluvinunclebert/SteamyDock)
 
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is [SteamyDock](https://github.com/yereverluvinunclebert/SteamyDock), my RocketDock/ObjectDock replacement written in VB6, an unfinished but working project. Needs a rethink to encapsulate certain elements and make the code more streamlined. However, it works and it runs on all my Windows systems.
 
-### Steampunk CPU GPU Speedfan Thermometer and OHM
+#### Steampunk CPU GPU Speedfan Thermometer and OHM
 
 [![steampunk_cpu_gpu_thermometer_widget_for_speedfan_by_yereverluvinuncleber_d4lri07-375w-2x](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/3dd3f291-258b-4872-bf6e-eb23b8272513)](https://github.com/yereverluvinunclebert/Steampunk-CPU_GPU-Speedfan-Thermometer)
 
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is my [Steampunk CPU/GPU Thermometer widget](https://github.com/yereverluvinunclebert/Steampunk-CPU_GPU-Speedfan-Thermometer) using OHM written in javascript for the Yahoo Widget Engine, a basically finished  project that requires some fettling to fix a bug or two. I aim to rewrite this in VB6.  Uses OHM to extract the system motherboard temperatures.
 
-### Steampunk Calendar Orrery Yahoo Widget
+#### Steampunk Calendar Orrery Yahoo Widget
 
 [![orrery-desktop](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/094b58ce-f3d7-4df8-9557-8c648940675e)](https://github.com/yereverluvinunclebert/Steampunk-Calendar-Orrery-Yahoo-Widget)
 
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is my [Orrery widget](https://github.com/yereverluvinunclebert/Steampunk-Calendar-Orrery-Yahoo-Widget) using javascript for the Yahoo Widget Engine, a basically finished project that requires some fettling to fix a bug or two that has arisen as time has progressed (as usual for me). An eye candy widget. There also exists a Plasma version of this timekeeper and a cutdown rainmeter version.
 
+#### Steampunk Clock Calendar Yahoo Widget
+
 [![steampunk_clock_calendar_mkii__2_9__rc_by_yereverluvinuncleber-d4l5xny](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/e91568e6-4a11-4fa0-8eaf-7b2e227c98d6)](https://github.com/yereverluvinunclebert/Steampunk-clock-calendar-version-2.9)
 
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is the [Steampunk Clock Calendar](https://github.com/yereverluvinunclebert/Steampunk-clock-calendar-version-2.9), my very first widget built using Photoshop and using javascript for the Yahoo Widget Engine, a basically finished project that requires some fettling to fix a bug or two that has arisen as time has progressed (as always).
 
+#### Desktop Hole Yahoo Widget
 
 [![hole-desktop-image](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/5bb855eb-cbf3-4460-b30f-c8553a056742)](https://github.com/yereverluvinunclebert/Desktop-Hole)
 
-![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is my [desktop hole widget](https://github.com/yereverluvinunclebert/Desktop-Hole) using javascript for the Yahoo Widget Engine, a finished project. A desktop tidy tool, drop any desktop item onto the hole and it will be re-organised automatically.
+![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is my [desktop hole widget](https://github.com/yereverluvinunclebert/Desktop-Hole) using javascript for the Yahoo Widget Engine, a finished project. A desktop tidy tool, drop any desktop item onto the hole and it will be re-organised automatically. Also exists as a NW.js widget.
 
+#### Panzer Just Clock Widget
 
 [![panzer-justclockVB6beltring](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/50ce333a-b28c-4313-bf02-e4de2c0cb265)](https://github.com/yereverluvinunclebert/Panzer-JustClock-VB6)
 
