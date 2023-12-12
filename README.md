@@ -38,7 +38,7 @@ I focus on Steampunk Design, why do I do it?
 
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is my [Steampunk CPU/GPU Thermometer widget](https://github.com/yereverluvinunclebert/Steampunk-CPU_GPU-Speedfan-Thermometer) using OHM written in javascript for the Yahoo Widget Engine, a basically finished  project that requires some fettling to fix a bug or two. I aim to rewrite this in VB6.  Uses OHM to extract the system motherboard temperatures.
 
-#### Steampunk Calendar Orrery Yahoo Widget
+#### Steampunk Calendar Orrery
 
 [![orrery-desktop](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/094b58ce-f3d7-4df8-9557-8c648940675e)](https://github.com/yereverluvinunclebert/Steampunk-Calendar-Orrery-Yahoo-Widget)
 
@@ -50,18 +50,19 @@ I focus on Steampunk Design, why do I do it?
 
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is the [Steampunk Clock Calendar](https://github.com/yereverluvinunclebert/Steampunk-clock-calendar-version-2.9), my very first widget built using Photoshop and using javascript for the Yahoo Widget Engine, a basically finished project that requires some fettling to fix a bug or two that has arisen as time has progressed (as always).
 
-#### Desktop Hole Yahoo Widget
+#### Desktop Hole 
 
 [![hole-desktop-image](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/5bb855eb-cbf3-4460-b30f-c8553a056742)](https://github.com/yereverluvinunclebert/Desktop-Hole)
 
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is my [desktop hole widget](https://github.com/yereverluvinunclebert/Desktop-Hole) using javascript for the Yahoo Widget Engine, a finished project. A desktop tidy tool, drop any desktop item onto the hole and it will be re-organised automatically. Also exists as a NW.js widget.
 
-#### Panzer Just Clock Widget
+#### Panzer Just Clock 
 
 [![panzer-justclockVB6beltring](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/50ce333a-b28c-4313-bf02-e4de2c0cb265)](https://github.com/yereverluvinunclebert/Panzer-JustClock-VB6)
 
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is my Panzer Clock widget, initially written using javascript for the [Yahoo Widget](https://github.com/yereverluvinunclebert/Panzer-Just-Clock.widget) and Xwidget Engines, each a finished project and now [there is now a VB6 version](https://github.com/yereverluvinunclebert/Panzer-JustClock-VB6) also complete and working.
 
+#### Panzer OHM Temperature Gauge 
 
 [![panzer-OHMXwidget1440x900](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/74f2083d-c41f-4f94-8639-fc2a0cf6888f)](https://github.com/yereverluvinunclebert/Panzer-OHM-gauge-Ywidget)
 
