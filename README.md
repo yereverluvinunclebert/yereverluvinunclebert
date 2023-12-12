@@ -68,46 +68,55 @@ I focus on Steampunk Design, why do I do it?
 
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is my [Panzer OHM temperature](https://github.com/yereverluvinunclebert/Panzer-OHM-gauge-Ywidget) widget, written using javascript for the [Yahoo Widget](https://github.com/yereverluvinunclebert/Panzer-OHM-gauge-Ywidget) and [Xwidget](https://github.com/yereverluvinunclebert/Panzer-Tank-Temperature-Gauge-OHM-XWidget) Engines, each a finished project. Uses OHM to extract the system motherboard temperatures. VB6 versions of the Panzer widgets are intended.
 
-
+#### DieselPunk Volume Control
 
 [![diesel-volume-help](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/2dc75108-6c99-4f00-a49f-c7ecc1094922)](https://github.com/yereverluvinunclebert/Dieselpunk-Volume-Xwidget)
 
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) This is my [Volume Control](https://github.com/yereverluvinunclebert/Dieselpunk-Volume-Xwidget) widget, initially written in a steampunk form using javascript for the [Yahoo Widget](https://github.com/yereverluvinunclebert/steampunk-volume-XP) engine then converted to the [Xwidget Engine](https://github.com/yereverluvinunclebert/Dieselpunk-Volume-Xwidget) to overcome a Windows change to the sound system, the [Xwidget](https://github.com/yereverluvinunclebert/Dieselpunk-Volume-Xwidget) a finished project. There also exists a VB6 version whose coding is underway now.
 
+#### CyberPunk Nixie Tube Clock
 
 [![d5zka9p-7b86c6d7-1b56-4f23-a4ba-9ce9c668356b](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/629527b8-f144-4d41-9d99-e27d8bbdce42)](https://github.com/yereverluvinunclebert/Cyberpunk-Nixie-Tube-Clock)
 
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) If you like [nixie tubes](https://github.com/yereverluvinunclebert/Cyberpunk-Nixie-Tube-Clock) then you will like this widget available in javascript for the [Yahoo](https://github.com/yereverluvinunclebert/Cyberpunk-Nixie-Tube-Clock) and Xwidget engines. Fully functional.
 
+#### Moon Phase Widget
+
 [![steampunk_moon_phase_widget_and_icons_by_yereverluvinuncleber-d7jbrj0](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/2b180d45-f87c-4e5a-8edd-b4f948a2c0c7)](https://github.com/yereverluvinunclebert/Steampunk-Moon_Phase_III)
 
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) The [moon phase widget ](https://github.com/yereverluvinunclebert/Steampunk-Moon_Phase_III)coupled with the orrery, gives the orrery some function, displaying the phases of the moon using javascript for the Yahoo Widget engine. Fully functional.
 
+#### Icon Settings for SteamyDock
 
 [![250285730-a525e0e1-50fc-42c9-8cb5-d578e3a9efaf](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/78eef7ba-78f3-4b29-93f0-f05b462b0e70)](https://github.com/yereverluvinunclebert/Icon-Settings-for-Steamydock)
 
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) I do occasionally create something more 'traditional'. This is one of the supporting utilities for SteamyDock, [the Icon Settings tool](https://github.com/yereverluvinunclebert/Icon-Settings-for-Steamydock). A finished, working project written in VB6.
 
+#### Steampunk Media Player
 
 [![steampunk-media04](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/1913b715-8ddc-4413-a3f3-07a0549c56c9)](https://github.com/yereverluvinunclebert/Steampunk-MediaPlayer-Ywidget)
 
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) My [steampunk media player](https://github.com/yereverluvinunclebert/Steampunk-MediaPlayer-Ywidget). Fully functional. Written in javascript for the [Yahoo](https://github.com/yereverluvinunclebert/Steampunk-MediaPlayer-Ywidget) and Xwidget engines. Uses the native Windows COM interface to the Windows media player. This provides the musical background to all my Windows installations. I could not live without it.
 
+#### Christmas Baubles
 
 [![xmas-advent-desktop-01](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/ef1c3f6f-df06-4646-b653-0e8177f71252)](https://github.com/yereverluvinunclebert/christmas-baubles)
 
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Some [Christmas Baubles](https://github.com/yereverluvinunclebert/christmas-baubles) using javascript for the Yahoo Widget Engine, I have these on my desktop every Christmas. Advent is improved by having it run on my desktop.
 
+#### Steampunk Icon Sets
 
 [![steampunk-icons02-PNG](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/8af073d4-0d3c-4776-b42b-8af87e750c41)](https://www.deviantart.com/yereverluvinuncleber/gallery/59981272/orbs-and-icons)
 
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) My desktop icon sets shown above. These exist in several forms, PNG, ICNS &c. Not hosting them here on github but instead on [Deviantart](https://www.deviantart.com/yereverluvinuncleber/gallery/59981272/orbs-and-icons).
 
+#### Steampunk Desktop Trinkets
 
 [![trinkets001](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/ff236a13-350b-4c46-9e01-a97ea20f2660)](https://github.com/yereverluvinunclebert/Penny-Red-VB6-Widget)
 
 ![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above I have some 'simple' desktop widgets or trinkets as I like to call them. They are similar to large icons that you can dynamically resize and assign a function to. They are: [Halfpenny](https://github.com/yereverluvinunclebert/Halfpenny-VB6-Widget), [Sovereign](https://github.com/yereverluvinunclebert/Sovereign-VB6-Widget), [Penny Red](https://github.com/yereverluvinunclebert/Penny-Red-VB6-Widget), [Poster](https://github.com/yereverluvinunclebert/Poster-VB6-Widget) and the simple [magnifier](https://github.com/yereverluvinunclebert/Magnifier-VB6-Widget). I use these as icons to various useful programs. Genuinely useful. Written in VB6 and for the Yahoo Widget engine, moveable eye-candy. Links above to the VB6 versions. All functioning. You can find the [Yahoo Widget versions](https://github.com/yereverluvinunclebert?tab=repositories&q=yahoo&type=&language=javascript&sort=) in my repository.
 
+#### Planetary Marble Trinkets
 
 [![planets](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/be23920a-957d-43d0-a3ef-3f8c73c22559)
 ](https://github.com/yereverluvinunclebert/Sun-VB6-Widget)
