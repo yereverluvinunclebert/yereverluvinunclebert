@@ -42,13 +42,13 @@ I focus on Steampunk Design, why do I do it?
 
 [![orrery-desktop](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/094b58ce-f3d7-4df8-9557-8c648940675e)](https://github.com/yereverluvinunclebert/Steampunk-Calendar-Orrery-Yahoo-Widget)
 
-![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is my [Orrery widget](https://github.com/yereverluvinunclebert/Steampunk-Calendar-Orrery-Yahoo-Widget) using javascript for the Yahoo Widget Engine, a basically finished project that requires some fettling to fix a bug or two that has arisen as time has progressed (as usual for me). An eye candy widget. There also exists a Plasma version of this timekeeper and a cutdown rainmeter version.
+![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is my [Orrery widget](https://github.com/yereverluvinunclebert/Steampunk-Calendar-Orrery-Yahoo-Widget) using javascript for the Yahoo Widget Engine, a basically finished project that requires some fettling to fix a bug or two that has arisen as time has progressed (as usual for me). Inspired by an Ian Tregillis creation, a beautiful eye candy widget, there also exists a Plasma version of this time keeper, a cut-down rainmeter version and a web version too. I contributed to these latter projects but the original Orrery is still my very own and I'm rather fond of it. Links to the variants will appear on the orrery repo.
 
 #### Steampunk Clock Calendar Yahoo Widget
 
 [![steampunk_clock_calendar_mkii__2_9__rc_by_yereverluvinuncleber-d4l5xny](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/e91568e6-4a11-4fa0-8eaf-7b2e227c98d6)](https://github.com/yereverluvinunclebert/Steampunk-clock-calendar-version-2.9)
 
-![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is the [Steampunk Clock Calendar](https://github.com/yereverluvinunclebert/Steampunk-clock-calendar-version-2.9), my very first widget built using Photoshop and using javascript for the Yahoo Widget Engine, a basically finished project that requires some fettling to fix a bug or two that has arisen as time has progressed (as always).
+![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is the [Steampunk Clock Calendar](https://github.com/yereverluvinunclebert/Steampunk-clock-calendar-version-2.9), my very first widget built using Photoshop and using javascript for the Yahoo Widget Engine, a basically finished project that requires some fettling to fix a bug or two that has arisen as time has progressed (as always). Inspired by the time controller in Jeff Wayne's war of the Worlds PC game.
 
 #### Desktop Hole 
 
