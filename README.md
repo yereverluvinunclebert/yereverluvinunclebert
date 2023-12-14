@@ -129,7 +129,7 @@ I focus on Steampunk Design, why do I do it?
 
 ### Installation of Yahoo/Xwidgets
 
-![min-sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/f586d05b-6444-4edc-b56c-a7636331a64b) All the Yahoo widgets will be downloadable from here, all latest functioning/buggy versions, the Xwidgets too (soon) though the latter are deprecated. When your widget engine is installed, download the widget to a folder, double click on the .KON file and the widget will run. Same with the main.XUL file for the Xwidget engine. Note: None of the YWE and Xwidgets will be receiving regular future updates but do feel free to tinker!
+![min-sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/f586d05b-6444-4edc-b56c-a7636331a64b) All the Yahoo widgets will be downloadable from here, all latest functioning/buggy versions, the Xwidgets too (soon) though the latter are deprecated. When your widget engine is installed, download the widget to a folder, double click on the .KON file and the widget will run. Same with the main.XUL file for the Xwidget engine. You can obtain the Yahoo Widget Engine here: https://g6auc.me.uk/ywidgets_sdk_setup.exe. Note: None of the YWE and Xwidgets will be receiving regular future updates but do feel free to tinker!
 
 ### Credits
 
