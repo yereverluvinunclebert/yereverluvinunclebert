@@ -125,7 +125,7 @@ I focus on Steampunk Design, why do I do it?
 
 ### Installation of VB6 Widgets/Trinkets
 
-![min-sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/f586d05b-6444-4edc-b56c-a7636331a64b) For the casual installer - each of the VB6 widgets will eventually have a setup.exe from which you can run and install. Note that the setup.exe for each will inevitably be an old version as I am coding ALL the VB6 widgets now and fixing things as they arise. Developers, you can download the code and build it yourself as long as you have the VB6 IDE installed and follow the instructions! There will be no support nor assistance offered as the VB6 programs are ALL under development. When they are complete I will build a new setup.exe for each and from that point support will be offered. 
+![min-sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/f586d05b-6444-4edc-b56c-a7636331a64b) For the casual installer you can find all the [VB6 widgets here](https://github.com/yereverluvinunclebert?tab=repositories&q=&type=&language=visual+basic+6.0&sort=) - each of the VB6 widgets will eventually have a setup.exe from which you can run and install. Note that for the moment the setup.exe for each will inevitably be an old version as I am still coding ALL the VB6 widgets now and fixing things as they arise. Developers, you can download the code and build it yourself as long as you have the VB6 IDE installed and follow the instructions! There will be no support nor assistance offered as the VB6 programs are ALL under development. When they are complete I will build a final setup.exe for each and from that point support WILL be offered. 
 
 ### Installation of Yahoo/Xwidgets
 
