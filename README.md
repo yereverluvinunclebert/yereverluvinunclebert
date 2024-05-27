@@ -70,9 +70,9 @@ I focus on Steampunk Design, why do I do it?
 
 #### DieselPunk Volume Control
 
-[![diesel-volume-help](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/2dc75108-6c99-4f00-a49f-c7ecc1094922)](https://github.com/yereverluvinunclebert/Dieselpunk-Volume-Xwidget)
+[![diesel-volume-help](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/2dc75108-6c99-4f00-a49f-c7ecc1094922)]https://github.com/yereverluvinunclebert/Diesel-Volume-Control-VB6
 
-![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) This is my [Volume Control](https://github.com/yereverluvinunclebert/Dieselpunk-Volume-Xwidget) widget, initially written in a steampunk form using javascript for the [Yahoo Widget](https://github.com/yereverluvinunclebert/steampunk-volume-XP) engine then converted to the [Xwidget Engine](https://github.com/yereverluvinunclebert/Dieselpunk-Volume-Xwidget) to overcome a Windows change to the sound system, the [Xwidget](https://github.com/yereverluvinunclebert/Dieselpunk-Volume-Xwidget) a finished project. There also exists a VB6 version whose coding is underway now.
+![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) This is my [Volume Control](https://github.com/yereverluvinunclebert/Diesel-Volume-Control-VB6) widget, initially written in a steampunk form using javascript for the [Yahoo Widget](https://github.com/yereverluvinunclebert/steampunk-volume-XP) engine then converted to the [Xwidget Engine](https://github.com/yereverluvinunclebert/Dieselpunk-Volume-Xwidget) to overcome a Windows change to the sound system, theXwidget version is now deprecated so please don't use it. As a replacement use the VB6 version (https://github.com/yereverluvinunclebert/Diesel-Volume-Control-VB6) whose coding is complete and which is being tidied up now, documentation &c is being finished but it works!
 
 #### CyberPunk Nixie Tube Clock
 
