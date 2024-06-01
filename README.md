@@ -67,7 +67,7 @@ I focus on Steampunk Design, why do I do it?
 [![panzer-OHMVB61440x900](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/a3b0e7d4-6fa8-430c-ac65-d4b9d196cf29)
 ](https://github.com/yereverluvinunclebert/Panzer-OHM-Gauge-VB6)
 
-![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is my VB6 version of the [Panzer OHM temperature](https://github.com/yereverluvinunclebert/Panzer-OHM-Gauge-VB6) widget,  [Yahoo Widget](https://github.com/yereverluvinunclebert/Panzer-OHM-gauge-Ywidget) and [Xwidget] Engines, each a finished project. Uses OHM to extract the system motherboard temperatures. 
+![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is my VB6 version of the [Panzer OHM temperature](https://github.com/yereverluvinunclebert/Panzer-OHM-Gauge-VB6) widget, also available for [Yahoo Widget](https://github.com/yereverluvinunclebert/Panzer-OHM-gauge-Ywidget) and [Xwidget] Engines, each a finished project. Uses Open Hardware Monitor  to extract the system motherboard temperatures. 
 
 #### DieselPunk Volume Control
 
