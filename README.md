@@ -64,9 +64,10 @@ I focus on Steampunk Design, why do I do it?
 
 #### Panzer OHM Temperature Gauge 
 
-[![panzer-OHMXwidget1440x900](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/74f2083d-c41f-4f94-8639-fc2a0cf6888f)](https://github.com/yereverluvinunclebert/Panzer-OHM-gauge-Ywidget)
+[![panzer-OHMVB61440x900](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/a3b0e7d4-6fa8-430c-ac65-d4b9d196cf29)
+](https://github.com/yereverluvinunclebert/Panzer-OHM-Gauge-VB6)
 
-![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is my [Panzer OHM temperature](https://github.com/yereverluvinunclebert/Panzer-OHM-gauge-Ywidget) widget, written using javascript for the [Yahoo Widget](https://github.com/yereverluvinunclebert/Panzer-OHM-gauge-Ywidget) and [Xwidget](https://github.com/yereverluvinunclebert/Panzer-Tank-Temperature-Gauge-OHM-XWidget) Engines, each a finished project. Uses OHM to extract the system motherboard temperatures. A VB6 version of the Panzer OHM widget is now [available here](https://github.com/yereverluvinunclebert/Panzer-OHM-Gauge-VB6) under development but working.
+![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is my VB6 version of the [Panzer OHM temperature](https://github.com/yereverluvinunclebert/Panzer-OHM-Gauge-VB6) widget,  [Yahoo Widget](https://github.com/yereverluvinunclebert/Panzer-OHM-gauge-Ywidget) and [Xwidget] Engines, each a finished project. Uses OHM to extract the system motherboard temperatures. 
 
 #### DieselPunk Volume Control
 
