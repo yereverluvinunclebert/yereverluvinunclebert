@@ -32,7 +32,7 @@ I focus on Steampunk Design, why do I do it?
 
 [![0UkRIKV](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/6a06d2f9-3cc7-472c-a6af-12112d202890)](https://github.com/yereverluvinunclebert/SteamyDock)
 
-![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is [SteamyDock](https://github.com/yereverluvinunclebert/SteamyDock), my RocketDock/ObjectDock replacement written in VB6, an unfinished but working project. Needs a rethink to encapsulate certain elements and make the code more streamlined. However, it works and it runs on all my Windows systems.
+![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is [SteamyDock](https://github.com/yereverluvinunclebert/SteamyDock), my RocketDock/ObjectDock replacement written in VB6, an unfinished but working project. Needs a rethink to encapsulate certain elements and make the code more streamlined. However, it works and it runs on all my Windows systems. In addition, changes have been made to make it compatible with TwinBasic, so it now compiles and runs using TwinBasic, a next step is to make the modifications for 64bit operation. 
 
 #### Steampunk CPU GPU Speedfan Thermometer
 
@@ -50,7 +50,7 @@ I focus on Steampunk Design, why do I do it?
 
 [![steampunk_clock_calendar_mkii__2_9__rc_by_yereverluvinuncleber-d4l5xny](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/e91568e6-4a11-4fa0-8eaf-7b2e227c98d6)](https://github.com/yereverluvinunclebert/Steampunk-clock-calendar-version-2.9)
 
-![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is the Steampunk Clock Calendar, my very first widget built using Photoshop and using javascript for the Yahoo Widget Engine, a basically finished project that requires some fettling to fix a bug or two that has arisen as time has progressed (as always). Inspired by the time controller in Jeff Wayne's war of the Worlds PC game. The original was a Yahoo widget and you can find that here: [Steampunk Clock Calendar](https://github.com/yereverluvinunclebert/Steampunk-clock-calendar-version-2.9) A new version is being built at this very moment using VB6: [https://github.com/yereverluvinunclebert/Steampunk-clock-calendar](https://github.com/yereverluvinunclebert/Steampunk-clock-calendar)
+![sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/9cdf9592-007c-4066-a916-983e66fbafe7) Above is the Steampunk Clock Calendar, my very first widget built using Photoshop and using javascript for the Yahoo Widget Engine, a basically finished project that requires some fettling to fix a bug or two that has arisen as time has progressed (as always). Inspired by the time controller in Jeff Wayne's war of the Worlds PC game. The original was a Yahoo widget and you can find that here: [Steampunk Clock Calendar](https://github.com/yereverluvinunclebert/Steampunk-clock-calendar-version-2.9) A new version is being built at this very moment using VB6: [https://github.com/yereverluvinunclebert/Steampunk-clock-calendar](https://github.com/yereverluvinunclebert/Steampunk-clock-calendar) In addition, changes have been made to make it compatible with TwinBasic, so it now compiles and runs using TwinBasic, next step is to make the modifications for 64bit operation. 
 
 #### Desktop Hole 
 
