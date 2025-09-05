@@ -4,10 +4,7 @@
 
 Note: ALL of my programs are in development in Alpha/beta stage and so you may encounter a bug or two, don't worry about it, just fix 'em!
 
-![vb6-logos](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/5670f82c-d645-4089-a190-307cd16290ba)
-
 <img width="650" height="56" alt="basic-logos" src="https://github.com/user-attachments/assets/22c791d7-b767-44f9-b5c0-5c0cd6ca29e2" />
-
 
 I focus on Steampunk Design. Why do I do it?
 
