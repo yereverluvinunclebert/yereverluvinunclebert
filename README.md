@@ -6,6 +6,9 @@ Note: ALL of my programs are in development in Alpha/beta stage and so you may e
 
 ![vb6-logos](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/5670f82c-d645-4089-a190-307cd16290ba)
 
+<img width="650" height="56" alt="basic-logos" src="https://github.com/user-attachments/assets/22c791d7-b767-44f9-b5c0-5c0cd6ca29e2" />
+
+
 I focus on Steampunk Design. Why do I do it?
 
 ![min-sauron](https://github.com/yereverluvinunclebert/yereverluvinunclebert/assets/2788342/f586d05b-6444-4edc-b56c-a7636331a64b)  Well, I, personally, can't bear the look and feel of current desktop computing being so locked into a 1980s 'modern' square box paradigm. Current GUIs, deriving mostly from Microsoft's efforts, have a basis in the GUIs we created in the late 80s and early 90s and despite regular 'improvements' those from MS or Apple still haven't moved on much. Do you run XP, Vista, Win 7, 8, 10, 11+? Well, if you do, that means under the skin you are still running NT5 or 6, all basically the same fundamental o/s. The only real differentiator is the GUI that MS foists upon you. Now, bear in mind a GUI is a GUI and should not be confused with the underlying operating system and due to that distinction, you should really be able to decide which style of GUI you want to run.
